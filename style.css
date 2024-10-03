@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    background-color:hsl(0, 0%, 98%)
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.nav-logo{
+    width: 85px;
+    padding: 40px;
+}
+
+.nav-links{
+    justify-content: space-between;
+    font-family: "Epilogue", sans-serif;
+    font-weight: 600;
+    padding-right: 500px;
+    word-spacing: 30px;
+}
+.nav-links2{
+    font-family: "Epilogue", sans-serif;
+    justify-content: space-between;
+    padding-right: 70px;
+    word-spacing: 80px;
+}
+
+
+a{
+    text-decoration: none;
+    color: hsl(0, 0%, 41%);
+    justify-content: space-between;
+
+    
+
+    
+}
+
+h1{
+    padding-left: 180px;
+    padding-top: 120px;
+    font-family: "Epilogue", sans-serif;
+    font-size: 60px;
+    color: hsl(0, 0%, 8%);
+}
+
+h4{
+    padding-left: 180px;
+    font-family: "Epilogue", sans-serif;
+    color: hsl(0, 0%, 41%);
+    padding-top: 40px;
+    line-height: 23px;
+    font-weight: 500;
+}
+
+
+.button{
+    color: white;
+    text-align: center;
+    border: none;
+    border-radius: 12px;
+    background-color: hsl(0, 0%, 8%);
+    width: 100px;
+    font-family:  "Epilogue", sans-serif;
+    font-size: 15px;
+    margin-left: 180px;
+    margin-top: 45px;
+    padding: 15px 30px;
+    font-weight: 600;
+}
+
+.banner{
+   display: inline-flex;    
+   
+}
+
+#image1{
+    width: 430px;
+    padding-left: 150px;
+    padding-top: 25px;
+}
